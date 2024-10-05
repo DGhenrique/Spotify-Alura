@@ -2,11 +2,11 @@
 
 ## Projeto de Recriação da Página Inicial do Spotify
 
-Este projeto consiste na recriação da página inicial do Spotify utilizando **HTML**, **CSS** e **JavaScript**, além de explorar conceitos avançados de **CSS** como **Flexbox** e **Grid Layout**, e introduzir o framework **React**.
+Este projeto consiste na recriação da página inicial do Spotify utilizando **HTML**, **CSS** e **JavaScript**, além de explorar conceitos avançados de **CSS** como **Flexbox** e **Grid Layout**.
 
 ## Objetivo do Projeto
 
-O objetivo deste projeto é fornecer uma compreensão prática e aprofundada de desenvolvimento web, abordando desde os conceitos básicos de **HTML**, **CSS** e **JavaScript** até técnicas avançadas de layout, responsividade e introdução ao **React**.
+O objetivo deste projeto é fornecer uma compreensão prática e aprofundada de desenvolvimento web, abordando desde os conceitos básicos de **HTML**, **CSS** e **JavaScript** até técnicas avançadas de layout e responsividade.
 
 ## Conteúdo das Aulas
 
@@ -30,8 +30,3 @@ O objetivo deste projeto é fornecer uma compreensão prática e aprofundada de 
 - Criação dos cards da página inicial com CSS Grid Layout.
 - Utilização de media queries para responsividade.
 - Introdução ao JavaScript, utilizando o conceito DOM e Promises.
-
-### Aula 5: Introdução ao React e Criação do Componente Header
-- Introdução ao React.
-- Criação do componente `<Header>` utilizando React.
-- Comparação entre Angular e React.
