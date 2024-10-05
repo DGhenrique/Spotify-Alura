@@ -1,4 +1,4 @@
-# Spotify-Alura
+# Spotify-Alura - https://aluraspotify.netlify.app/
 
 ## Projeto de Recriação da Página Inicial do Spotify
 
